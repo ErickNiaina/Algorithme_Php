@@ -11,6 +11,10 @@
 	<h5><a href="arrondir.php">ARRONDISSEMENT</a></h5>
 	<h5><a href="nbPremier.php">NOMBRE PREMIER</a></h5>
 	<h5><a href="traduction.php">TRADUCTION</a></h5>
+	<h5><a href="nb_perdue.php">NOMBRE PERDU</a></h5>
+	<h5><a href="sommePaire.php">COORDONEE</a></h5>
+	<h5><a href="functionType.php">RECURSIVE</a></h5>
+	<h5><a href="armstrong.php">CUBE</a></h5>
 	<form action="index.php" method="POST">
 		<b>Colonne :</b> <input type="number" name="col"><br>
 		<b>Ligne : </b><input type="number" name="line"><br>
