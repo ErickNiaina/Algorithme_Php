@@ -15,6 +15,7 @@
 	<h5><a href="sommePaire.php">COORDONEE</a></h5>
 	<h5><a href="functionType.php">RECURSIVE</a></h5>
 	<h5><a href="armstrong.php">CUBE</a></h5>
+	<h5><a href="fileToarray.php">FILE ARRAY</a></h5>
 	<form action="index.php" method="POST">
 		<b>Colonne :</b> <input type="number" name="col"><br>
 		<b>Ligne : </b><input type="number" name="line"><br>
